@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverCraft.Core", "EverCraft.Core\EverCraft.Core.csproj", "{1AE799C1-9B1E-4681-A108-9791E8165C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EverCraft.Core.Tests", "EverCraft.Core.Tests\EverCraft.Core.Tests.csproj", "{D2467BB2-B5D7-439F-81C8-6C636D756537}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE799C1-9B1E-4681-A108-9791E8165C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE799C1-9B1E-4681-A108-9791E8165C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE799C1-9B1E-4681-A108-9791E8165C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE799C1-9B1E-4681-A108-9791E8165C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2467BB2-B5D7-439F-81C8-6C636D756537}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2467BB2-B5D7-439F-81C8-6C636D756537}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2467BB2-B5D7-439F-81C8-6C636D756537}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2467BB2-B5D7-439F-81C8-6C636D756537}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
